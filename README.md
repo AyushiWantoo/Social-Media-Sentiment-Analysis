@@ -25,7 +25,12 @@ Device and Connectivity: Device Type, Operating System, and Connection Type.
 Tools and Technologies
 Languages: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
-Visualization: Streamlit
+Deployment: Streamlit
+
+Visualizations :
+
+![image](https://github.com/user-attachments/assets/a727cec5-2601-4c92-976c-e7ad4ce364de)
+
 
 Recommendations
 Operations Team:
