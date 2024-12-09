@@ -29,7 +29,11 @@ Deployment: Streamlit
 
 Visualizations :
 
-![image](https://github.com/user-attachments/assets/a727cec5-2601-4c92-976c-e7ad4ce364de)
+![image](https://github.com/user-attachments/assets/a36178ec-4bbe-4278-9f56-4c4dd3cf041a)
+
+![image](https://github.com/user-attachments/assets/dd2a205b-971f-4fed-a564-5b0cdeee0cf3)
+
+![image](https://github.com/user-attachments/assets/3ecdfe61-2c83-4f7c-92de-61005a50bf43)
 
 
 Recommendations
